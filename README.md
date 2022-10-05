@@ -1,7 +1,6 @@
 ### Hi there, I'm Filippo 👋
 
-I'm just trying to be nice to [Google](https://www.google.com)<br />
-. People call it <i>SEO Specialist</i>.
+I'm just trying to be nice to [Google](https://www.google.com). People call it <i>SEO Specialist</i>.
 
 - 👨🏻‍💻 I’m currently working as SEO / Marketing Specialist @[NUR](https://www.nur.it/)
 - 🌱 Eager to Learn and Grow Professionally
