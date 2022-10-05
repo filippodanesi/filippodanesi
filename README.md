@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Filippo 👋
 
-<!--
-**filippodanesi/filippodanesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just trying to be nice to Google. People call it SEO Specialist.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👨🏻‍💻 I’m currently working as SEO / Marketing Specialist @[NUR](https://www.nur.it/)
+- 🌱 Eager to Learn and Grow Professionally
+- 🎒 Backpacker and Travel Addicted
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 I'm talking about SEO, Web Marketing, Web Design and Work
+- 📫 How to reach me: [info@filippodanesi.it](mailto:info@filippodanesi.it)<br />
 - ⚡ Fun fact: ...
--->
+
+[Why don't you take a look at my website?](https://www.filippodanesi.it)<br />
+[Add me on LinkedIn →](https://www.linkedin.com/in/filippodanesi/)<br />
