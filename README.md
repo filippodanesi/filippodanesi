@@ -7,7 +7,7 @@ I'm just trying to be nice to Google. People call it SEO Specialist.
 - 🎒 Backpacker and Travel Addicted
 - 🤔 I’m looking for help with ...
 - 💬 I'm talking about SEO, Web Marketing, Web Design and Work
-- 📫 How to reach me: [info@filippodanesi.it](mailto:info@filippodanesi.it)<br />
+- 📫 Contact me @: [info@filippodanesi.it](mailto:info@filippodanesi.it)<br />
 - ⚡ Fun fact: ...
 
 [Why don't you take a look at my website?](https://www.filippodanesi.it)<br />
