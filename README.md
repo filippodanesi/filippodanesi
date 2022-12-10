@@ -10,7 +10,7 @@ This is me in summary:
 - 🎒 Backpacker and Travel Addicted,
 - 🥢 Drum player,
 - 💬 I'm talking about SEO, Web Marketing and Web Design (on my [Blog](https://www.filippodanesi.it/) ),
-- 📫 How To Reach Me: [hello@filippodanesi.it](mailto:hello@filippodanesi.it)<br />.
+- 📫 How To Reach Me: [hello@filippodanesi.it](mailto:hello@filippodanesi.it).<br />
 
 [Why don't you take a look at my website?](https://www.filippodanesi.it)<br />
 [Add me on LinkedIn →](https://www.linkedin.com/in/filippodanesi/)<br />
