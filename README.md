@@ -5,7 +5,7 @@ I've been working in the field of digital marketing for about 4 years. I've had 
 
 This is me in summary:
 - 🇮🇹 Born and raised in Italy,
-- 👨🏻‍💻 I’m currently working as SEO / Marketing Specialist @[NUR](https://www.nur.it/),
+- 👨🏻‍💻 Currently working as SEO / Marketing Specialist @[NUR](https://www.nur.it/),
 - 🌱 Eager to Learn and Grow Professionally,
 - 🎒 Backpacker and Travel Addicted,
 - 🥢 Drum player,
