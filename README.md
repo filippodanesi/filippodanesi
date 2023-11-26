@@ -1,4 +1,4 @@
-# ✺ Filippo Danesi
+# Filippo Danesi
 ## Technical SEO Lead & AI Enthusiast
 
 Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Specialist, I'm all about blending the art of search engine optimization with the science of artificial intelligence. Here's where I play, experiment, and share my journey in tech.
