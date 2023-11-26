@@ -1,11 +1,11 @@
-# Hello World! I'm Filippo Danesi
+# ✺ Filippo Danesi
 ## Technical SEO Lead & AI Enthusiast
 
 Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Specialist, I'm all about blending the art of search engine optimization with the science of artificial intelligence. Here's where I play, experiment, and share my journey in tech.
 
 ### About Me
 
-- Currently, I'm delving deep into AI-driven SEO strategies.
+- Currently, I'm delving deep into AI-driven SEO strategies @ [NUR Digital Marketing](https://www.nur.it)
 - I love making websites not just visible, but outstanding in the digital realm.
 - Open for collaborations on projects that push the boundaries of SEO and AI.
 - Constantly learning and evolving in the rapidly changing tech landscape.
@@ -16,7 +16,7 @@ Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Special
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippodanesi&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippodanesi&show_icons=true)
 
 ### Let's Connect
 
