@@ -27,7 +27,7 @@ Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Special
 
 - 🎙️ I occasionally share my thoughts on [www.serp-secrets.com].
 - 🛠️ - 🛠️ Exploring Tech: I'm always eager to learn new things about SEO and AI. In my free time, I love writing and sharing insights online. Whether it's a new algorithm update or an AI breakthrough, you'll find me delving into it and sharing my takeaways.
-- 📚 Currently reading: (Entity SEO: Moving from Strings to Things)[https://dixonjones.com/seo-book/]
+- 📚 Currently reading: [Entity SEO: Moving from Strings to Things](https://dixonjones.com/seo-book/)
 - 🌍 Multilingual: Fluent in English, born Italian.
 
 ---
