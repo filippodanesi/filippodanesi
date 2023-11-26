@@ -1,5 +1,4 @@
-# Hello World! 👋 I'm [Your Name]
-
+# Hello World! 👋 I'm Filippo Danesi
 ## 🚀 Technical SEO Lead & AI Enthusiast
 
 Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Specialist, I'm all about blending the art of search engine optimization with the science of artificial intelligence. Here's where I play, experiment, and share my journey in tech.
@@ -11,9 +10,9 @@ Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Special
 - 🤝 Open for collaborations on projects that push the boundaries of SEO and AI.
 - 🌱 Constantly learning and evolving in the rapidly changing tech landscape.
 - 💬 Feel free to ask me about SEO, AI, and everything in between.
-- 📫 Reach me at: [your-email@example.com]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A quirky or fun fact about you]
+- 📫 Reach me at: [hello@filippodanesi.it]
+- 😄 Pronouns: [He/him]
+- ⚡ Fun fact: [there's no place like 127.0.0.1]
 
 ### My GitHub Stats 📊
 
@@ -28,8 +27,8 @@ Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Special
 
 - 🎙️ I occasionally share my thoughts on [www.serp-secrets.com].
 - 🛠️ Fun with tech: I enjoy building [type of projects you like to work on].
-- 📚 Currently reading: [A book or article related to your field].
-- 🌍 Multilingual: Fluent in [Languages you speak].
+- 📚 Currently reading: [410 Gone].
+- 🌍 Multilingual: Fluent in [English], born Italian.
 
 ---
 
