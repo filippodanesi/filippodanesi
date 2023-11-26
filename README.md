@@ -10,9 +10,9 @@ Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Special
 - 🤝 Open for collaborations on projects that push the boundaries of SEO and AI.
 - 🌱 Constantly learning and evolving in the rapidly changing tech landscape.
 - 💬 Feel free to ask me about SEO, AI, and everything in between.
-- 📫 Reach me at: [hello@filippodanesi.it]
-- 😄 Pronouns: [He/him]
-- ⚡ Fun fact: [there's no place like 127.0.0.1]
+- 📫 Reach me at: hello@filippodanesi.it
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: there's no place like 127.0.0.1
 
 ### My GitHub Stats 📊
 
