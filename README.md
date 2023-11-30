@@ -20,8 +20,8 @@ Welcome to my GitHub space! As a passionate Technical SEO Lead and an AI Special
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-filippodanesi-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/filippodanesi/])
-[![Twitter](https://img.shields.io/badge/Twitter-@filippodanesi-blue?style=flat-square&logo=twitter)]([https://twitter.com/filippodanesi])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-filippodanesi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/filippodanesi/)
+[![Twitter](https://img.shields.io/badge/Twitter-@filippodanesi-blue?style=flat-square&logo=twitter)](https://twitter.com/filippodanesi)
 
 ### Cool Extras
 
