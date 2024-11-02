@@ -17,27 +17,6 @@ Senior SEO professional passionate about research and development in search opti
 - 🤖 Experimenting with AI in technical SEO
 - 📘 Contributing to SEO technical documentation
 
-### Tech Stack
-```python
-tech_stack = {
-    'core': ['Python', 'JavaScript', 'SQL'],
-    'seo_tools': ['SEO APIs', 'Screaming Frog', 'Google Search Console API'],
-    'data': ['Pandas', 'Jupyter', 'Data Studio'],
-    'automation': ['Selenium', 'BeautifulSoup', 'Scrapy'],
-    'ai_ml': ['TensorFlow', 'scikit-learn', 'NLP']
-}
-```
-
-### Repository Structure
-```
-📦 seo-research
- ┣ 📂 automation
- ┣ 📂 data-analysis
- ┣ 📂 ml-experiments
- ┣ 📂 tools
- ┗ 📂 documentation
-```
-
 ### Contributions Welcome
 - 🔍 SEO analysis tools
 - 🤖 AI/ML implementations
