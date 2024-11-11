@@ -1,5 +1,5 @@
 # Filippo Danesi
-## Senior SEO Specialist | R&D Focus
+## Senior SEO Strategist & AI Innovation Specialist
 
 Senior SEO professional passionate about research and development in search optimization technologies. Focused on advancing SEO methodologies through AI implementation and content-driven technical innovation. Bridging the gap between technical excellence and strategic content optimization.
 
