@@ -4,7 +4,7 @@
 [![Innovation](https://img.shields.io/badge/Focus-AI%20%26%20Technology-171717?style=for-the-badge&logoColor=F2F1EC)](https://www.filippodanesi.it)
 [![Development](https://img.shields.io/badge/Expertise-Search%20%26%20Analytics-171717?style=for-the-badge&logoColor=F2F1EC)](https://github.com/filippodanesi)
 
-Senior SEO strategist combining advanced technical expertise with deep content strategy knowledge. Specializing in the integration of AI technology with proven content methodologies to drive organic growth and enhance search visibility.
+SEO strategist and AI specialist, combining advanced technical know-how with deep content strategy experience. I'm specialized in the integration of AI technology together with proven content methodologies that drive organic growth and increased search visibility.
 
 ## Strategic Approach
 
