@@ -24,7 +24,7 @@ expertise = {
 ## Collaboration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=F2F1EC)](https://www.linkedin.com/in/filippodanesi/)
-[![Email](https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=F2F1EC)](mailto:hello@filippodanesi.it)
+[![Email](https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=F2F1EC)](mailto:hello@filippodanesi.com)
 
 Open to collaborations on content strategy frameworks, SEO analysis tools, and integrated search optimization solutions. Focused on developing approaches that combine technical excellence with strategic content development.
 
