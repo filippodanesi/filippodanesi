@@ -30,4 +30,4 @@ Open to collaborations on content strategy frameworks, SEO analysis tools, and i
 
 ---
 
-© 2024 Filippo Danesi
+© 2025 Filippo Danesi
