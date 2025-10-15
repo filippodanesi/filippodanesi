@@ -19,8 +19,8 @@ expertise = {
 ```
 
 ## Collaboration
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippodanesi/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@filippodanesi.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square)
+![Email](https://img.shields.io/badge/Email-111?style=flat-square)
 
 Open to collaborations on AI-driven SEO systems, content intelligence frameworks, and integrated search solutions focused on measurable performance.
 
