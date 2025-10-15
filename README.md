@@ -1,7 +1,7 @@
 # Filippo Danesi
-[![Strategy](https://img.shields.io/badge/Strategy-SEO%20%7C%20Content-000?style=flat-square&logo=google&logoColor=white)](https://www.filippodanesi.com)
-[![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Technology-111?style=flat-square&logo=openai&logoColor=white)](https://www.filippodanesi.com)
-[![Expertise](https://img.shields.io/badge/Expertise-Search%20%7C%20Analytics-222?style=flat-square&logo=python&logoColor=white)](https://github.com/filippodanesi)
+![Strategy](https://img.shields.io/badge/Strategy-SEO%20|%20Content-000?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%20|%20Technology-111?style=flat-square)
+![Expertise](https://img.shields.io/badge/Expertise-Search%20|%20Analytics-222?style=flat-square)
 
 SEO and AI strategist merging technical engineering with content architecture to build scalable, data-driven growth systems. Specialized in integrating AI, automation, and search intelligence to expand organic visibility across platforms.
 
