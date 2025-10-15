@@ -23,5 +23,6 @@ expertise = {
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@filippodanesi.com)
 
 Open to collaborations on AI-driven SEO systems, content intelligence frameworks, and integrated search solutions focused on measurable performance.
+
 ---
 © 2025 Filippo Danesi
