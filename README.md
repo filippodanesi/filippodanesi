@@ -1,28 +1,24 @@
-# Filippo Danesi
-![Strategy](https://img.shields.io/badge/Strategy-SEO%20|%20Content-000?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI%20|%20Technology-111?style=flat-square)
-![Expertise](https://img.shields.io/badge/Expertise-Search%20|%20Analytics-222?style=flat-square)
+  # Filippo Danesi                                                                                                                                                        
+                                                                                                                                                                          
+  SEO specialist focused on making brands visible on Google and AI search engines. I also build tools that automate the parts of SEO that don't scale manually.           
+                                                                                                                                                                          
+  Currently SEO & AI Search Manager at [Triumph International](https://en.wikipedia.org/wiki/Triumph_International).
+                                                                                                                                                                          
+  ## What I do                                                                                                                                                            
+                                                                                                                                                                          
+  - SEO for enterprise e-commerce across EMEA (15+ domains)                                                                                                               
+  - AI search visibility (ChatGPT, Perplexity, AI Overviews)                                                                                                              
+  - Internal tools and automations for SEO workflows (Python, TypeScript)                                                                                                 
+                                                                                                                                                                          
+  ## Projects                                                                                                                                                             
+                                                                                                                                                                          
+  - [**AI Copy Assistant**](https://github.com/filippodanesi/ai-copy-assistant) — Generates product descriptions for e-commerce catalogs using GPT and Claude             
+  - [**Vision Describe**](https://github.com/filippodanesi/vision-describe) — Turns product images into multilingual descriptions
+  - [**NLU Analyzer**](https://github.com/filippodanesi/nlu-analyzer) — Analyzes text with IBM Watson NLU, then suggests improvements with GPT/Claude                     
+  - [**Web Scraper**](https://github.com/filippodanesi/web-scraper) — Pulls clean text from any URL                                                                       
 
-SEO and AI strategist merging technical engineering with content architecture to build scalable, data-driven growth systems. Specialized in integrating AI, automation, and search intelligence to expand organic visibility across platforms.
+  ## Contact
 
-## Strategic Approach
-Bridging technical SEO, data science, and content strategy through measurable, automation-ready frameworks. Expertise ranges from crawl efficiency and Core Web Vitals to topic modeling, LLM integration, and large-scale optimization systems.
-
-## Core Competencies
-```python
-expertise = {
-    'strategy': ['Content Architecture', 'Topic Mapping', 'User Intent Modeling'],
-    'technical': ['Crawling & Indexation', 'Performance Optimization', 'Core Web Vitals'],
-    'analysis': ['Search Intelligence', 'Data Modeling', 'Behavioral Insights'],
-    'innovation': ['AI Integration', 'LLM Automation', 'NLP Applications']
-}
-```
-
-## Collaboration
-![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square)
-![Email](https://img.shields.io/badge/Email-111?style=flat-square)
-
-Open to collaborations on AI-driven SEO systems, content intelligence frameworks, and integrated search solutions focused on measurable performance.
-
----
-© 2025 Filippo Danesi
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square)](https://linkedin.com/in/filippodanesi)
+  [![Email](https://img.shields.io/badge/Email-111?style=flat-square)](mailto:hello@filippodanesi.com)
+  [![Website](https://img.shields.io/badge/Website-222?style=flat-square)](https://www.filippodanesi.com)
