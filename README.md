@@ -12,8 +12,8 @@
                                                                                                                                                                           
   ## Projects                                                                                                                                                             
                                                                                                                                                                           
-  - [**AI Copy Assistant**](https://github.com/filippodanesi/ai-copy-assistant) — Generates product descriptions for e-commerce catalogs using GPT and Claude             
-  - [**Vision Describe**](https://github.com/filippodanesi/vision-describe) — Turns product images into multilingual descriptions
+  - [**VisionDescribe**](https://github.com/filippodanesi/vision-describe) — AI-powered product copy generator for e-commerce and store locator platforms      
+  - [**SEO Internal Linker**](https://github.com/filippodanesi/seo-internal-linker) — CLI tool for automated internal link insertion into blog articles
   - [**NLU Analyzer**](https://github.com/filippodanesi/nlu-analyzer) — Analyzes text with IBM Watson NLU, then suggests improvements with GPT/Claude                     
   - [**Web Scraper**](https://github.com/filippodanesi/web-scraper) — Pulls clean text from any URL                                                                       
 
