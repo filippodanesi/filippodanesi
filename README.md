@@ -13,7 +13,7 @@
   ## Projects                                                                                                                                                             
                                                                                                                                                                           
   - [**VisionDescribe**](https://github.com/filippodanesi/vision-describe) — AI-powered product copy generator for e-commerce and store locator platforms      
-  - [**SEO Internal Linker**](https://github.com/filippodanesi/seo-internal-linker) — CLI tool for automated internal link insertion into blog articles
+  - [**SEOLinkr**](https://github.com/filippodanesi/seolinkr) — CLI + web app for automated internal link insertion into blog articles
   - [**NLU Analyzer**](https://github.com/filippodanesi/nlu-analyzer) — Analyzes text with IBM Watson NLU, then suggests improvements with GPT/Claude                     
   - [**Web Scraper**](https://github.com/filippodanesi/web-scraper) — Pulls clean text from any URL                                                                       
 
